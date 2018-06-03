@@ -1,6 +1,7 @@
 setup.py
 displaypackage/__init__.py
 displaypackage/displayfunctions.py
+displaypackage/moredisplayfunctions.py
 python_lab10.egg-info/PKG-INFO
 python_lab10.egg-info/SOURCES.txt
 python_lab10.egg-info/dependency_links.txt
