@@ -4,4 +4,4 @@ def make_upper_case(text):
 
 
 def add_exclamation(text):
-    return text + "!"
+    return text + "!!"
